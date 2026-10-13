@@ -4,6 +4,7 @@
   "description": "High-fidelity clone of Grizon AI multi-agent workspace website",
   "main": "server.js",
   "scripts": {
+    "build": "echo 'Static deployment ready'",
     "start": "node server.js",
     "dev": "node server.js"
   },
